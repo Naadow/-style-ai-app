@@ -1,0 +1,12 @@
+{
+  "name": "Style AI Free",
+  "short_name": "Style AI",
+  "description": "Kostenloser digitaler Kleiderschrank mit lokaler Outfit-Empfehlung.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#111827",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
